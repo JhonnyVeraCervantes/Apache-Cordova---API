@@ -19,17 +19,6 @@
 * [Cordova](https://cordova.apache.org/) Cross Platfrom Develop Apps 🦘
 
 
-
-
-
-## Author ✒️
-
-_This project_
-
-* **Kevin Gracia** - *Developer* - [kevingo710](https://github.com/kevingo710)
-
-
-
 ## Expressions of gratitude 🎁
 
 * Share this project 📢
